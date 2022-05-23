@@ -4,7 +4,7 @@
 
 1. Prepare Trino config: ``make prepare``
 2. Start Trino daemon: ``make up``
-3. UI is available at http://localhost:9090/ui/
+3. UI is available at http://localhost:9090/ui/ (any username)
 
 ## R driver
 
