@@ -2,8 +2,9 @@
 
 ## Server setup
 
-1. Prepare Trino config (default user credentials: ``test``/``password123``): ``make prepare``
+1. Prepare Trino config: ``make prepare``
 2. Start Trino daemon: ``make up``
+3. UI is available at http://localhost:9090/ui/
 
 ## R driver
 
